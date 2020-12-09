@@ -1,0 +1,3 @@
+#### Preonic Rev 3 Keymap Info
+
+Tweaked off the default to actually enable toggling RGB for underglow.  Lower+RGB_TOG will cycle through the available RGB styles.  I also swapped KC_RGHT/UP, but everything else is vanilla so far, and will likely stay that way.
